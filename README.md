@@ -1,4 +1,4 @@
-# CTUTrainingSolutions
+# CTU Training Solutions
 Scenario Based Solution
 You have been hired by a company called CTU Training Solutions and you need to help them with the creation of their database.   
 
